@@ -6,6 +6,7 @@ public class C1 {
 		
 
 		System.out.println("start");
+		System.out.println("add 1");
 
 	}
 
